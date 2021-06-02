@@ -58,7 +58,7 @@ namespace lambdaTest_bdd
             Console.WriteLine(caps);
             DesiredCapabilities capability = new DesiredCapabilities();
 
-            Console.WriteLine(capability);
+            //Console.WriteLine(capability);
             Console.WriteLine(profile + environment);
 
             foreach (string key in caps.AllKeys)

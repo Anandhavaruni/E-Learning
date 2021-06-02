@@ -5,7 +5,7 @@
 
 @Test
 Scenario:Add items to the ToDoApp
-	Given that I am on the LambdaTest Sample app <profile> and <environment>
+	    Given that I am on the LambdaTest Sample app <profile> and <environment>
    #Given that I am on the LambdaTest Sample app single and chrome
     Then select the first item
     Then select the second item
